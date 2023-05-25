@@ -9,20 +9,20 @@ import QtQuick.VirtualKeyboard 2.1
 ApplicationWindow {
     id:window
     visible: true
-    width: 800
-    height: 480
+    width: 3840
+    height: 1100
     minimumWidth: 800
     minimumHeight: 480
     title: qsTr("PowerTune ") + Dashboard.Platform
     color: "black"
-    //Screen Keyboard do not change !!! Behaviour between QT5.10 and QT5.15 is different
+    //Screen Keyboard do not change !!! Behaviour between QT5.10 and QT5.15 is different // Still changed it - tnt
     Rectangle {
         id: keyboardcontainer
         color: "blue"
         visible: false
-        width: 500
-        height: 220
-        z: 220
+        width: 1800
+        height: 620
+        z: 620
 
         MouseArea {
             id: touchAkeyboardcontainer

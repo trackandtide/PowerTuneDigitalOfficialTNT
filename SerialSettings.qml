@@ -36,7 +36,7 @@ Quick1.TabView {
             color: styleData.selected ? "grey" : "lightgrey"
             border.color: "steelblue"
             implicitWidth: Math.max(text.width + 4, 80)
-            implicitHeight: 50
+            implicitHeight: 75    // change from 50 to 75 for widescreen - tnt
             radius: 2
             Text {
                 id: text

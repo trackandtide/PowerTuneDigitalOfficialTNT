@@ -1400,7 +1400,7 @@ void Connect::updatefinished(int exitCode, QProcess::ExitStatus exitStatus)
     }
 }
 
-void Connect::RequestLicence()
+/*void Connect::RequestLicence()
 {
     QProcess *process = new QProcess(this);
     process->start("/home/pi/licencerequest");
@@ -1418,7 +1418,7 @@ void Connect::RequestLicence()
         }
         inputFile.close();
     }
-}
+}*/
 
 void Connect::restartDaemon()
 {

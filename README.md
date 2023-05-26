@@ -1,4 +1,6 @@
-# PowerTune
+# PowerTune - not official 
+
+This is a modified version for personal use, it is suggested you use the official release.
 
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/c9pmpYDCXZ)
 

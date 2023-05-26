@@ -8,7 +8,7 @@ if nc -zw5 www.github.com 443; then
 		else 
 		echo "Create source directory and clone PowerTune Repo"
 		mkdir /home/pi/src
-		git clone https://github.com/BastianGschrey/PowerTune.git /home/pi/src  
+		git clone https://github.com/trackandtide/PowerTuneDigitalOfficialTNT.git /home/pi/src  
 		fi
 		
 # Check if there is a build folder	

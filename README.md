@@ -1,6 +1,6 @@
 # PowerTune - not official 
 
-This is a modified version for personal use, it is suggested you use the official release.
+This is a modified version setup for OUR personal and specific use, it is suggested you use the official release. You however might be able to get some ideas from our changes though. REFER TO WIKI FOR CHANGES.
 
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/c9pmpYDCXZ)
 
